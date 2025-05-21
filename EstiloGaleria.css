@@ -1,0 +1,28 @@
+html{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ }
+
+body {
+ height: 1200px;
+ background-color: #ff99ff; 
+}
+  
+div.ficha{
+	width 200px;
+	height 120px;
+	float: left;
+	margin: 15px;
+         }
+ul#menu {
+          margin:1px;
+          padding:1px;
+          list-style-type:none
+        }
+#menu li {
+     background-color: cyan;
+     border: lightblue 3px solid;
+     margin: 1px;
+     float: left;
+     }
