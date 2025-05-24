@@ -1,6 +1,6 @@
  </br>
  </br>
- <form method="get" action="primero1.php">
+ <form method="get" action="formulario.php">
  Nombre: <input type="text" name="nombre"></br>
  Apellido: <input type="text" name="ape"></br>
  Correo: <input type="text" name="email"></br>
