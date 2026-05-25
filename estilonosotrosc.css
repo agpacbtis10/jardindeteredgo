@@ -33,9 +33,6 @@ body {
   height: auto;
   background-color: #FFFFFF;
 }
-#columna_publicidad {
-  display: none;
-}
 
 #pie {
    display: none;
@@ -49,12 +46,6 @@ body {
   width: 70%;
   height: 700px;
   background-color: #FFFFFF;
-}
-#columna_publicidad {
-  float: left;
-  width: 30%;
-  height: 700px;
-  background-color: #A9F5D0;
 }
 
 #pie {
