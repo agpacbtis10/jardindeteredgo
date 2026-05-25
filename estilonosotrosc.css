@@ -26,7 +26,7 @@ body {
         }
 
 
-@media only screen and (max-width:400px){
+@media (max-width:400px){
 #columna_principal {
   float: left;
   width: 99%;
@@ -43,7 +43,7 @@ body {
 }
 
 
-@media only screen and (min-width:401px) and (max-width:1980px){
+@media (min-width:401px) and (max-width:1980px){
 #columna_principal {
   float: left;
   width: 70%;
