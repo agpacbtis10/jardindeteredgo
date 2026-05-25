@@ -25,6 +25,25 @@ body {
         background-color: #04B404;
         }
 
+
+@media only screen and (max-width:400px){
+#columna_principal {
+  float: left;
+  width: 99%;
+  height: auto;
+  background-color: #FFFFFF;
+}
+#columna_publicidad {
+  display: none;
+}
+
+#pie {
+   display: none;
+  }
+}
+
+
+@media only screen and (min-width:401px) and (max-width:1980px){
 #columna_principal {
   float: left;
   width: 70%;
@@ -46,5 +65,8 @@ body {
   text-align: center;
   color: white;
 }
+}
+
+
 
 
